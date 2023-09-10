@@ -1,2 +1,0 @@
-# Space Defenders
-Like SpaceInvaders
